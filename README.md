@@ -1,4 +1,5 @@
 🍎 Smart Sorting: Transfer Learning for Identifying Rotten Fruits and Vegetables
+
 📌 Project Overview
 Smart Sorting is a Deep Learning-based image classification system that uses Transfer Learning to automatically identify and classify fresh and rotten fruits and vegetables.
 This project aims to reduce food waste, improve quality control, and automate sorting processes in agriculture, supermarkets, and food supply chains.
